@@ -2452,6 +2452,56 @@ class PhoneCodes {
       'internalPhoneCode': '1340',
       'countryCode': 'VI',
       'phoneMask': '+0 (000) 000 0000',
-    }
+    },
+    //TODO added new countries if in original master will be added should be deleted
+    {
+      'country': 'South Sudan',
+      'countryRU': 'Южный Судан',
+      'internalPhoneCode': '211',
+      'countryCode': 'SS',
+      'phoneMask': '+000 00 000 0000',
+    },
+    {
+      'country': 'Western Sahara',
+      'countryRU': 'Западная Сахара',
+      'internalPhoneCode': '212',
+      'countryCode': 'EH',
+      'phoneMask': '+000 0000 00000',
+    },
+    {
+      'country': 'Curaçao',
+      'countryRU': 'Кюрасао',
+      'internalPhoneCode': '599',
+      'countryCode': 'CW',
+      'phoneMask': '+000 000 0000',
+    },
+    {
+      'country': 'Saint Martin (French part)',
+      'countryRU': 'Сен-Мартен (остров)',
+      'internalPhoneCode': '590',
+      'countryCode': 'MF',
+      'phoneMask': '+000 000 00 00 00',
+    },
+    {
+      'country': 'Holy See (Vatican City State)',
+      'countryRU': 'Holy See (Vatican City State)',
+      'internalPhoneCode': '39',
+      'countryCode': 'VA',
+      'phoneMask': '+00 0 000 00000',
+    },
+    {
+      'country': 'Isle of Man',
+      'countryRU': 'Остров Мэн',
+      'internalPhoneCode': '44',
+      'countryCode': 'IM',
+      'phoneMask': '+00 0000 000 0000',
+    },
+    {
+      'country': 'Jersey',
+      'countryRU': 'Джерси',
+      'internalPhoneCode': '44',
+      'countryCode': 'JE',
+      'phoneMask': '+00 000 0000000',
+    },
   ];
 }
