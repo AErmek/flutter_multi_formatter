@@ -1264,6 +1264,9 @@ class PhoneCodes {
       'internalPhoneCode': '49',
       'countryCode': 'DE',
       'phoneMask': '+00 00 000000000',
+      'altMasks': [
+        '+00 00 0000 0000',
+      ],
     },
     {
       'country': 'Ghana',
@@ -1417,6 +1420,9 @@ class PhoneCodes {
       'internalPhoneCode': '972',
       'countryCode': 'IL',
       'phoneMask': '+000 00 000 0000',
+      'altMasks': [
+        '+000 0 000-0000',
+      ],
     },
     {
       'country': 'Italy',
@@ -1424,6 +1430,9 @@ class PhoneCodes {
       'internalPhoneCode': '39',
       'countryCode': 'IT',
       'phoneMask': '+00 00 000 0000',
+      'altMasks': [
+        '+00 00 00 00 00 00',
+      ],
     },
     {
       'country': 'Jamaica',
@@ -2237,6 +2246,10 @@ class PhoneCodes {
       'internalPhoneCode': '82',
       'countryCode': 'KR',
       'phoneMask': '+00 0 000 0000',
+      'altMasks': [
+        '+00 0 0000 0000',
+        '+00 00 0000 0000',
+      ],
     },
     {
       'country': '(Laos) Lao People\'s Democratic Republic',
