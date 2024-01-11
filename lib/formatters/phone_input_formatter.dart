@@ -1263,9 +1263,9 @@ class PhoneCodes {
       'countryRU': 'Германия',
       'internalPhoneCode': '49',
       'countryCode': 'DE',
-      'phoneMask': '+00 00 000000000',
+      'phoneMask': '+00 00 0000 0000',
       'altMasks': [
-        '+00 00 0000 0000',
+        '+00 00 000000000',
       ],
     },
     {
@@ -1419,9 +1419,9 @@ class PhoneCodes {
       'countryRU': 'Израиль',
       'internalPhoneCode': '972',
       'countryCode': 'IL',
-      'phoneMask': '+000 00 000 0000',
+      'phoneMask': '+000 0 000-0000',
       'altMasks': [
-        '+000 0 000-0000',
+        '+000 00 000 0000',
       ],
     },
     {
