@@ -1532,6 +1532,9 @@ class PhoneCodes {
       'internalPhoneCode': '370',
       'countryCode': 'LT',
       'phoneMask': '+000 000 0000',
+      'altMasks': [
+        '+000 000 00 000',
+      ],
     },
     {
       'country': 'Luxembourg',
